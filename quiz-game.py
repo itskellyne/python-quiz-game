@@ -1,11 +1,11 @@
 """
-Want our prhram to go through each question.
+Want our program to go through each question.
 show the user the question options
 each question has a possible answers but one correct answer
 a user should be able to input an option number for a guess
 will be given right answer
-then iven next question
-at the end ther should be a final statement of how many questions they got right
+then given next question
+at the end there should be a final statement of how many questions they got right
 
 """
 
